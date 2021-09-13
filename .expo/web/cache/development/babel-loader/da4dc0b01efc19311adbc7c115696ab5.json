@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function App() {}","map":{"version":3,"sources":["D:/AULAS POO/PROJETO3/projetoaula/App.tsx"],"names":["App"],"mappings":"AAGA,eAAe,SAASA,GAAT,GAAe,CAAE","sourcesContent":["import React from 'react'\nimport { View, Text  } from 'react-native'\n\nexport default function App() {}"]},"metadata":{},"sourceType":"module"}

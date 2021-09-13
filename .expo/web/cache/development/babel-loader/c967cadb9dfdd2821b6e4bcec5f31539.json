@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default func;","map":{"version":3,"sources":["D:/AULAS POO/PROJETO3/projetoaula/App.tsx"],"names":["func"],"mappings":"AAGA,eAAeA,IAAf","sourcesContent":["import React from 'react'\nimport { View, Text  } from 'react-native'\n\nexport default func"]},"metadata":{},"sourceType":"module"}
